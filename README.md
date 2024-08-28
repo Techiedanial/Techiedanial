@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
-<h3 align="left">About Me</h3>
+<h3 align="left">About Me:</h3>
+<p>👋 Hi there! I'm Danial, a software engineer with a practical approach to problem-solving.I believe in the power of coding and software development to build solutions and infrastructures that make a difference in people's lives.Whether it's crafting efficient code or designing  systems, I thrive on finding the right tech stack for the task at hand, adapting to different scenarios and challenges.
+Beyond software, I'm equally passionate about hardware.I work with Arduino, ESP32, and Raspberry Pi, blending the digital and physical worlds to create innovative products.For me, engineering is all about developing solutions when and where they're needed, bridging the gap between ideas and reality.
+
+Let's build something great together!</p>
 <img align="left" src="https://i.gifer.com/origin/70/7080c87c8cdd71cbf2ae6affaf5d2fae_w200.gif">
 
 <p align="left">
