@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
 <h3 align="center">The software engineer</h3>
-<img align="right" src="https://i.gifer.com/origin/70/7080c87c8cdd71cbf2ae6affaf5d2fae_w200.gif">
+<img align="left" src="https://i.gifer.com/origin/70/7080c87c8cdd71cbf2ae6affaf5d2fae_w200.gif">
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
