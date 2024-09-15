@@ -1,7 +1,20 @@
 <h1 align="center">Hi 👋, I'm Danial</h1>
 <h3 align="left">About Me:</h3>
-<p>👋 Hi there! I'm Danial, a software engineer with a practical approach to problem-solving.I believe in the power of coding and software development to build solutions and infrastructures that make a difference in people's lives.Whether it's crafting efficient code or designing  systems, I thrive on finding the right tech stack for the task at hand, adapting to different scenarios and challenges.
-Beyond software, I'm equally passionate about hardware.I work with Arduino, ESP32, and Raspberry Pi, blending the digital and physical worlds to create innovative products.For me, engineering is all about developing solutions when and where they're needed, bridging the gap between ideas and reality.
+<p>👋 I am a Junior Data Analyst with a passion for transforming data into actionable insights. With a strong foundation in Python, R, Excel, and Power BI, I specialize in analyzing and visualizing complex datasets to solve real-world problems. My technical expertise extends to machine learning and artificial intelligence, enabling me to build predictive models and drive data-driven decision-making.
+
+🚀 Skills & Tools:
+Programming Languages: Python, R
+Data Visualization & Analysis: Power BI, Excel
+Machine Learning & AI: Scikit-learn, TensorFlow, Pytorch, Keras.
+Data Manipulation & Analysis: Pandas, NumPy
+Database Management: SQL
+Version Control: Git, GitHub
+I'm constantly expanding my knowledge and taking on new challenges, and I'm excited to contribute to data-driven projects and collaborate with the tech community.
+
+📈 Current Focus:
+Enhancing my expertise in machine learning and AI
+Building advanced data visualization dashboards with Power BI and Excel
+Exploring new opportunities in the data science and analytics space
 
 Let's build something great together!</p>
 <img align="left" src="https://i.gifer.com/origin/70/7080c87c8cdd71cbf2ae6affaf5d2fae_w200.gif">
